@@ -1,0 +1,53 @@
+:root{
+    --cor-primária: grey;
+    --cor-botoes: whitesmoke;
+    --cor-txt-btn: black;
+}
+
+body{
+    background-color: var(--cor-primária);
+    margin-left: 15em;
+}
+#zoonOut{
+    color: var(--cor-txt-btn);
+    background-color: var(--cor-botoes);
+    box-shadow: 5em;
+}
+
+#zoonIn{
+    color: var(--cor-txt-btn);
+    background-color: var(--cor-botoes);
+    box-shadow: 5em;
+}
+
+#btnDesligar{
+    color: var(--cor-txt-btn);
+    background-color: var(--cor-botoes);
+    box-shadow: 5em;
+}
+
+#btnLigar{
+    color: var(--cor-txt-btn);
+    background-color: var(--cor-botoes);
+    box-shadow: 5em;
+}
+
+#btnChuva{
+    color: var(--cor-txt-btn);
+    background-color: var(--cor-botoes);
+    box-shadow: 5em;
+}
+
+#btnSol{
+    color: var(--cor-txt-btn);
+    background-color: var(--cor-botoes);
+    box-shadow: 5em;
+}
+
+#clima{
+    width: 20em;
+}
+
+#clima2{
+    width: 20em;
+}
